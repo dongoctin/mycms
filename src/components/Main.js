@@ -8,7 +8,6 @@ import Service from './Service'
 import Contact from './Contact'
 import Recruitment from './Recruitment'
 
-
 export default function Main() {
     return (
         <BrowserRouter>
@@ -22,6 +21,7 @@ export default function Main() {
                     <Route path="product" element={<Product />}> </Route>
                     <Route path="recruitment" element={<Recruitment />}> </Route>
                     <Route path="service" element={<Service />}> </Route>
+
                 </Route>
 
 
