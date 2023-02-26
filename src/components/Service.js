@@ -1,13 +1,20 @@
-import React from 'react';
+import React from "react";
 
 export default function Service() {
     return (
         <div>
-            <h1 className='font-medium text-xl'>Chăm sóc</h1>
+            <h1 className="font-medium text-xl">Chăm sóc</h1>
             <p>
-                Trước khi khởi hành hôm nay, phi hành đoàn xác nhận tôi đã đặt suất ăn VGML (đồ ăn chay) và bữa sáng của tôi là một quả chuối. Tuy nhiên, tôi lại nghĩ ý cô ấy là bữa sáng bao gồm quả chuối”, một tài khoản có tên Kris_Chari viết trên diễn đàn hàng không FlyerTalk hôm 21/2.
-
-                “Khi cô ấy mang quả chuối đến sau khi máy bay cất cánh, tôi nghĩ đó chỉ là một món khai vị không mấy ấn tượng. Dù vậy, thực tế đây là toàn bộ bữa ăn”, Kris_Chari viết thêm. “Quả chuối này thực sự ngon - một trong những quả ngon nhất tôi đã ăn gần đây - nhưng nó làm đồ ăn vặt thì có lẽ phù hợp hơn
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
+                cumque ad, natus voluptatem in nostrum optio debitis odio architecto
+                sint omnis veritatis totam quia ea numquam eum eaque sit earum quas
+                commodi eligendi iste quos id minima? Magni provident debitis quasi id
+                aut corporis voluptas atque! Eos, aperiam? Ad perspiciatis quibusdam non
+                ipsam culpa a ducimus vero quas nesciunt placeat quasi alias, cupiditate
+                expedita id totam! Deserunt maxime et id ducimus atque quis? Facere
+                nulla atque sed, quaerat sit ipsam perferendis odit at, temporibus,
+                corporis sint in blanditiis. Tempore molestiae quis doloremque
+                consequuntur iste deserunt ipsam voluptatibus, sit labore nisi.
             </p>
         </div>
     );
