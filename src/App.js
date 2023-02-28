@@ -1,8 +1,22 @@
 import * as React from "react";
 import { Routes, Route, Outlet, Link, NavLink } from "react-router-dom";
-import Main from "./components/Main"
+
+import Login from "./components/Login";
+
+
 
 
 export default function App() {
-  return <Main />;
+
+
+
+  return (
+    <div className="container-fuild gap-4 grid grid-cols-1">
+
+      < Login />
+
+
+    </div>
+
+  );
 }
